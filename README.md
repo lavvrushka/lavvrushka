@@ -21,7 +21,6 @@ I'm a beginner developer from Belarus!
 
 - :cowboy_hat_face:I am studying at BSUIR to become a software engineer and systems engineer.
 
-- English language B1
 - German language A1-A2
 ---
 
